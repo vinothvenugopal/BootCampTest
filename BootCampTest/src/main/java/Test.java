@@ -6,7 +6,7 @@ public class Test {
 		
 		//
 		String test ="";
-		int a=0, b=10;
+		int a=0, b=10, c=15;
 		long l;
 
 	}
