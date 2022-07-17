@@ -7,6 +7,7 @@ public class Test {
 		//
 		String test ="";
 		int a=0, b=10;
+		long l;
 
 	}
 
